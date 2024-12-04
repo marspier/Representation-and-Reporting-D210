@@ -1,7 +1,7 @@
 # Representation-and-Reporting-D210
  Insights into customer churn patterns and behavior in the telecommunications industry
 Part 1: Interactive Data Dashboard
-A.https://public.tableau.com/views/D210Final_17145851576070/Story1?:language=en-US&:sid=&: display_count=n&:origin=viz_share_link
+A.https://public.tableau.com/views/D210Final_17145851576070/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 1. Datasets
 3
     2.
@@ -19,7 +19,7 @@ have one.
 g. Once logged in, click on the "Open Workbook" option and select the downloaded
 Tableau workbook file to open the dashboard.
 Provide instructions to help users navigate the dashboard.
-a. Click on the link to my Tableau dashboard:https://public.tableau.com/views/D210Final_17145851576070/Story1?:langu age=en-US&:sid=&:display_count=n&:origin=viz_share_link
+a. Click on the link to my Tableau dashboard:https://public.tableau.com/views/D210Final_17145851576070/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 b. Upon opening the dashboard, you'll see various visualizations representing different aspects of the data.
 c. Hover your mouse cursor over different data points to view additional information.
 d. Use interactive controls such as dropdown menus, filters, or sliders to filter the content.
